@@ -9,6 +9,90 @@
     "backlink": true,
     "command-palette": true,
     "markdown-importer": true,
-    "word-count": true
+    "word-count": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "starred": true,
+    "custom-css": true,
+    "daily-notes": true,
+    "templates": true,
+    "random-note": true,
+    "outline": true,
+    "slides": true,
+    "audio-recorder": true,
+    "open-with-default-app": true,
+    "workspaces": true,
+    "publish": true
+  },
+  "readableLineLength": false,
+  "spellcheck": true,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "hotkeys": {
+    "editor:swap-line-up": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "ArrowUp"
+      }
+    ],
+    "editor:swap-line-down": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "ArrowDown"
+      }
+    ],
+    "editor:toggle-highlight": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "H"
+      }
+    ],
+    "editor:delete-paragraph": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "D"
+      }
+    ],
+    "insert-template": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "i"
+      }
+    ],
+    "random-note": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "r"
+      }
+    ],
+    "outline:open": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "o"
+      }
+    ]
   }
 }

@@ -1,33 +1,30 @@
 {
   "main": {
-    "id": "b0f1b245e509266b",
+    "id": "1c578b9c5e7d3c05",
     "type": "split",
     "children": [
       {
-        "id": "cf4032cfd2296f23",
+        "id": "c1ec7fdcc49fbcb5",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "671d15b9598700e2",
+    "id": "4f88c443794a3546",
     "type": "split",
     "children": [
       {
-        "id": "a5b4e8c9d137387f",
+        "id": "dc633b6eb5f8a918",
         "type": "tabs",
         "children": [
           {
-            "id": "4f17e2cb66325d65",
+            "id": "e1edc6f7269adf07",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +32,7 @@
             }
           },
           {
-            "id": "029fb985de70705c",
+            "id": "9dccd69eea8d1950",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -43,39 +40,129 @@
                 "query": ""
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "21d6c88ce12c12d8",
-    "type": "split",
-    "children": [
-      {
-        "id": "82d171323dbb134f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6e958a6f15f5ba35",
+            "id": "773f477b0a23d613",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md"
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7880bd61ca12675a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "babcd301a242364b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 331.5036334991455
+  },
+  "right": {
+    "id": "3daf49910a155d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "024e91f4a0db8bec",
+        "type": "tabs",
+        "dimension": 42.840375586854464,
+        "children": [
+          {
+            "id": "23fb0d33956f080c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "75ab9babeddd6d96",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.42394446476252096
+                }
+              }
+            }
+          },
+          {
+            "id": "0173167daeb83dd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "691bb46e49dc5fbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "37926a7fa6c85ba5",
+        "type": "tabs",
+        "dimension": 57.159624413145536,
+        "children": [
+          {
+            "id": "34f6d28847a9b784",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.97711181640625
   },
   "lastOpenFiles": [
-    "README.md"
+    "Untitled.md",
+    "2020-06-02 O- On the process of making MOCs.md",
+    "Resources/zArchive/P- LYT Course v1.md",
+    "100 Projects MOC.md",
+    "Is LYT For Me.md",
+    "_START HERE.md",
+    "Release Notes - LYT.md",
+    "2020-08-08 O- In what ways can we form useful relationships between notes B01.md",
+    "000 Home.md",
+    "I want to....md"
   ]
 }
