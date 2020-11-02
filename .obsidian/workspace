@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c1ec7fdcc49fbcb5",
+        "id": "9bc366f768252db0",
         "type": "leaf",
         "active": true,
         "state": {
@@ -37,24 +37,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:#maps-of-content"
               }
-            }
-          },
-          {
-            "id": "773f477b0a23d613",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7880bd61ca12675a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -78,16 +62,8 @@
       {
         "id": "024e91f4a0db8bec",
         "type": "tabs",
-        "dimension": 42.840375586854464,
+        "dimension": 27.25914861837192,
         "children": [
-          {
-            "id": "23fb0d33956f080c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
           {
             "id": "75ab9babeddd6d96",
             "type": "leaf",
@@ -132,12 +108,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "37926a7fa6c85ba5",
         "type": "tabs",
-        "dimension": 57.159624413145536,
+        "dimension": 72.74085138162808,
         "children": [
           {
             "id": "34f6d28847a9b784",
@@ -151,9 +128,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.97711181640625
+    "width": 300
   },
   "lastOpenFiles": [
+    "00000 MOCs.md",
+    "00000 Home.md",
     "Untitled.md",
     "2020-06-02 O- On the process of making MOCs.md",
     "Resources/zArchive/P- LYT Course v1.md",
@@ -161,8 +140,6 @@
     "Is LYT For Me.md",
     "_START HERE.md",
     "Release Notes - LYT.md",
-    "2020-08-08 O- In what ways can we form useful relationships between notes B01.md",
-    "000 Home.md",
-    "I want to....md"
+    "2020-08-08 O- In what ways can we form useful relationships between notes B01.md"
   ]
 }

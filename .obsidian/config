@@ -24,7 +24,7 @@
     "workspaces": true,
     "publish": true
   },
-  "readableLineLength": false,
+  "readableLineLength": true,
   "spellcheck": true,
   "strictLineBreaks": true,
   "foldHeading": true,
@@ -94,5 +94,9 @@
         "key": "o"
       }
     ]
-  }
+  },
+  "spellcheckDictionary": [
+    "MOCs",
+    "backlinking"
+  ]
 }
