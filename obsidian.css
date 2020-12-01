@@ -2,7 +2,7 @@
     font-size: 16pt;
     /*--font-family-editor: "Varela Round", sans-serif;*/
     /*--font-family-editor: "Ubuntu", sans-serif;*/
-    --font-family-editor-headings: "Ubuntu", sans-serif;
+    --font-family-editor-headings: "Segoe UI", sans-serif;
     /*--font-family-editor-headings: "Open Sans", sans-serif;*/
     --font-family-editor-body: "Open Sans", sans-serif;
     /*--font-family-editor: "Segoe UI", sans-serif;*/
@@ -249,19 +249,30 @@
 
 .markdown-preview-section kbd,
 .markdown-preview-section pre,
-.markdown-preview-section code {
+.markdown-preview-section code,
+.markdown-preview-section kbd {
     font-family: "Courier Prime Code", "Consolas", "Ubuntu Mono", 'Courier New', Courier, monospace !important;
     font-size: 1.1rem;
 }
 
-.markdown-preview-section kbd,
-.markdown-preview-section code {
-    color: aliceblue;
-    border: 1px solid #ccc;
+.cm-hmd-codeblock,
+.cm-inline-code {
+    color: #fff !important;
+    background-color: rgb(3, 138, 3) !important;
+    font-weight: 600;
+}
+
+.markdown-preview-view kbd,
+.markdown-preview-view code {
+    color: #fff !important;
+    border: 1px solid #ccc !important;
+    background-color: rgb(3, 138, 3) !important;
+    border-radius: 3px;
+    font-weight: 600;
 }
 
 .markdown-preview-section mark {
-    background-color: #7f6df2;
+    background-color: #553FEE;
     columns: #fff;
     border: 1px solid #fff;
     padding: 2px 4px;

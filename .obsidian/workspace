@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#maps-of-content"
+                "query": "tag:#mocs",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -70,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -97,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           },
           {
@@ -105,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -121,7 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -131,15 +151,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "README.md",
+    "Multi-Word Tag.md",
+    "00000 HOME.md",
     "00000 MOCs.md",
     "00000 Home.md",
     "Untitled.md",
     "2020-06-02 O- On the process of making MOCs.md",
     "Resources/zArchive/P- LYT Course v1.md",
     "100 Projects MOC.md",
-    "Is LYT For Me.md",
-    "_START HERE.md",
-    "Release Notes - LYT.md",
-    "2020-08-08 O- In what ways can we form useful relationships between notes B01.md"
+    "Is LYT For Me.md"
   ]
 }
